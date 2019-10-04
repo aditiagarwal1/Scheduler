@@ -6,6 +6,7 @@ import 'firebase/auth';
 import 'firebase/database';
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 
+
 const uiConfig = {
   signInFlow: 'popup',
   signInOptions: [
